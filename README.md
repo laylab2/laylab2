@@ -26,4 +26,4 @@
 
 [2.2]: https://raw.githubusercontent.com/laylab2/laylab2/master/codepen2.png
 
-[2]: https://codepen.io/laylab
+[2]: https://codepen.io/laylab/pens/public
