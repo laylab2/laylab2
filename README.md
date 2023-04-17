@@ -5,14 +5,13 @@
 
 ## Hi
 
-- I'm Layla, a Computer Science student interested in Web Development and Mobile App Development.
-- I currently have skills in HTML, JavaScript, CSS, Python and a bit of C#.
-- In the next year I am going to learn: Flutter, Kotlin, Vue, SASS, Tailwind, node.js and jQuery.
+- Hi there! I'm Layla, a Computer Science student interested in Web Development.  
+- I currently have skills in HTML, JavaScript, CSS, Python and a bit of C#, Kotlin, Vue, SASS, Tailwind, node.js and jQuery.
 - My pronouns are She/Her.
-- Fun Facts about me: 
-    - I can play guitar and bass.
-    - I like to needle felt.
-    - I can name all the country flags of the world (and am currently learning the capitals).
+- Some fun facts about me: 
+    - I can play guitar, bass and keyboard.
+    - I like to make things from needle felt.
+    - I love geography and can name all the country flags of the world.
    
 
 ## Socials
